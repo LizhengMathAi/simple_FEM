@@ -13,7 +13,7 @@ This system have several characters
     <li>it supports you to use mix-elements and custom elements.</li>
 </ol>
 </font>
-click http://www.li-zheng.net:8000/algorithms/simple_FEM.html for more details.
+click http://www.li-zheng.net:8000/algorithms/simple_FEM.html for more details.<br>
 click http://www.li-zheng.net:8000/algorithms/symbol_FEM.html to know how to solve nonlinear PDEs, the relevant project is in https://github.com/LizhengMathAi/symbol_FEM.
 
 <h1><b>Demo</b></h1>
