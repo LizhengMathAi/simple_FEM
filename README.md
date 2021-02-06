@@ -23,7 +23,6 @@ In 3-dimensional case, <a><img src="https://github.com/LizhengMathAi/simple_FEM/
 <a><img src="https://github.com/LizhengMathAi/simple_FEM/blob/main/src/8.png" /></a>
 In 2-dimensional case,<br>
 <a><img src="https://github.com/LizhengMathAi/simple_FEM/blob/main/src/9.png" /></a>
-However, I are not allow you to run such demo in my mini-amazon server, because these demos will consume tens GBs in memory.
-But you can try I by yourself, see my open source project on GitHub.
+Some solutions
 <img src="https://github.com/LizhengMathAi/simple_FEM/blob/main/src/2d.png" /><br>
 <img src="https://github.com/LizhengMathAi/simple_FEM/blob/main/src/3d.png" />
